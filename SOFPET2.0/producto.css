@@ -1,0 +1,26 @@
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+}
+
+.carousel-inner{
+ height: 500px;
+}
+.tarjetas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.margen{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.tamaño_img{
+    height: 280px;
+}
+.boton_center{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+ 
