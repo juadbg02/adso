@@ -1,0 +1,53 @@
+.marcas_index{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.logo_table{
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.tars_index{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trajet-01{
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+footer{
+    background: black;
+}
+.abajo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo_target{
+    margin-top: 3rem;
+}
+.maps{
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+.contacto{
+    margin-left: 3rem;
+    color: #fff;
+}
+.titulo_target{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pagos{
+    margin-right: 3rem;
+}
+.input_con{
+    border-radius: 10px;
+    border: none;
+}
+.red_img{
+    margin-right: 2rem;
+}
